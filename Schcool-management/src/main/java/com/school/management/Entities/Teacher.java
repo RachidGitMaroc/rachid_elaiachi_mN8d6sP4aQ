@@ -23,7 +23,6 @@ public class Teacher {
     @Column(name = "Last_Name", nullable = false)
     private String lastName;
 
-    // Constructors
     public Teacher() {
     }
     
